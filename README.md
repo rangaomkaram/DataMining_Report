@@ -10,4 +10,3 @@ Milk, Sugar, Butter, Egg and Baking powder, and saved into a comma separated val
 In supervised learning , we adopt SVM(Support Vector machine).Where the data high dimensionality.
 Goal : Understanding Mathematical background of Support vector machine how to classify the data with help of Linear , Non-linear Classifers.
 
-# Please check the pdf document to understand the total project
