@@ -26,7 +26,7 @@ looking at a Cup cake recipe!
 
 ![image](https://user-images.githubusercontent.com/46269446/159555291-eb74f8b9-f6e0-4bec-a11a-968742169611.png)
 
-Seaching for better hyperplane to differentiate the data points for making cupcake
+## Searching for better hyperplane to differentiate the data points for making cupcake
 ![image](https://user-images.githubusercontent.com/46269446/159555368-a6390587-c27c-41c5-93b3-32000de5720e.png)
 ![image](https://user-images.githubusercontent.com/46269446/159555442-1c3e3cff-407f-4b58-b0f0-1ad94714691e.png)
 
